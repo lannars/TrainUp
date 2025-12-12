@@ -36,3 +36,35 @@ Thymeleaf
 HTML / CSS
 
 Spring MVC
+
+🚀 Como rodar o projeto
+
+Clone o repositório
+
+git clone https://github.com/seu-usuario/trainup.git
+
+
+Entre na pasta
+
+cd trainup
+
+
+Rode o projeto no VSCODE
+
+Acesse no navegador:
+
+http://localhost:8080
+
+📸 Screenshots 
+
+
+<img width="959" height="320" alt="image" src="https://github.com/user-attachments/assets/65448e34-1f31-4c05-87e4-c742222cb1b7" />
+<img width="959" height="379" alt="image" src="https://github.com/user-attachments/assets/b32313c7-156b-4e87-82d8-d0f364037a14" />
+<img width="959" height="434" alt="image" src="https://github.com/user-attachments/assets/fb8f23c8-c2b2-4104-9c87-78bee72f65af" />
+<img width="959" height="334" alt="image" src="https://github.com/user-attachments/assets/ec1fc517-3f8d-403e-8d90-d320ba1927f6" />
+<img width="954" height="401" alt="image" src="https://github.com/user-attachments/assets/a2d6edc0-5b83-4652-9cc8-0fa9521a3e35" />
+
+
+
+
+
