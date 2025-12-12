@@ -37,23 +37,6 @@ HTML / CSS
 
 Spring MVC
 
-🚀 Como rodar o projeto
-
-Clone o repositório
-
-git clone https://github.com/seu-usuario/trainup.git
-
-
-Entre na pasta
-
-cd trainup
-
-
-Rode o projeto no VSCODE
-
-Acesse no navegador:
-
-http://localhost:8080
 
 📸 Screenshots 
 
